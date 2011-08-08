@@ -1,0 +1,32 @@
+            hello ocamljs
+
+
+LICENSE
+=======
+
+        MIT License (see the MIT-LICENSE file)
+
+
+
+REQUIREMENT
+===========
+
+        ocamljs-0.3 (https://github.com/jaked/ocamljs)
+
+
+
+HOW TO USE
+==========
+
+        - $ make
+        - See the test.html file with a web browser.
+
+
+LINK(JA)
+========
+
+        - http://jaked.github.com/ocamljs/doc/index.html
+
+        - http://d.hatena.ne.jp/keigoi/20101101/1288584308
+
+        - http://d.hatena.ne.jp/sunflat/20110305/p1
